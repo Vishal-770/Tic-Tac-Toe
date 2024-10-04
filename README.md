@@ -13,4 +13,5 @@ Tic Tac Toe is a simple, classic game played by two players. Each player takes t
 2. Player 1 uses 'X' and Player 2 uses 'O'.
 3. Players take turns clicking on the grid to place their marks.
 4. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game.
-5. If all nine spaces are filled and neither player has three marks in a row, the 
+5. If all nine spaces are filled and neither player has three marks in a row, the game ends in draw.
+6. 
