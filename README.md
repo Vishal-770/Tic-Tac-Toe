@@ -9,7 +9,7 @@ Tic Tac Toe is a simple, classic game played by two players. Each player takes t
 - Player vs Player mode
 
 ## How to Play
-1. Open the `index.html` file in your browser.
+1. Open the `ticTacToe.html` file in your browser.
 2. Player 1 uses 'X' and Player 2 uses 'O'.
 3. Players take turns clicking on the grid to place their marks.
 4. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game.
